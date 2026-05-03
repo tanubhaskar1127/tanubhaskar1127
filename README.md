@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tanubhaskar1127/tanubhaskar1127/main/ChatGPT%20Image%20May%203,%202026,%2007_03_08%20PM.png" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/tanubhaskar1127/tanubhaskar1127/main/ChatGPT%20Image%20May%203,%202026,%2007_03_08%20PM.png" width="100%"/>
 </p>
 # 👋 Hi, I'm Tanu Bhaskar
 
