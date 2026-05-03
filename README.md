@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanubhaskar1127/tanubhaskar1127/main/ChatGPT%20Image%20May%203,%202026,%2007_03_08%20PM.png" />
 </p>
-# 👋 Hi, I'm Bhaskar
+# 👋 Hi, I'm Tanu Bhaskar
 
 🚀 **Java Developer | DSA Enthusiast | Builder**
 💡 I love solving problems and building scalable solutions
