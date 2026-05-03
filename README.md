@@ -24,6 +24,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 💻 Languages
 `Java` `SQL`
 
@@ -56,7 +57,14 @@
 
 ## 🚀 Featured Projects
 
-🔹 Coming Soon... (Add your best projects here)
+🔹 [DSA-Java-Solutions](https://github.com/tanubhaskar1127/your-repo)  
+Daily DSA practice with clean Java solutions  
+
+🔹 [SQL-Projects](https://github.com/tanubhaskar1127/your-repo)  
+Hands-on database queries and real-world problems  
+
+🔹 [Portfolio Website](https://github.com/tanubhaskar1127/your-repo)  
+Personal portfolio built using HTML, CSS & JS  
 
 ---
 
