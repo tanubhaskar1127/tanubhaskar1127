@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Bhaskar
+<p align="center">
+  <img src="https://github.com/tanubhaskar1127/tanubhaskar1127/blob/main/ChatGPT%20Image%20May%203,%202026,%2007_03_08%20PM.png?raw=true
+" />
+</p>
+# 👋 Hi, I'm Bhaskar 
 
 🚀 **Java Developer | DSA Enthusiast | Builder**
 💡 I love solving problems and building scalable solutions
