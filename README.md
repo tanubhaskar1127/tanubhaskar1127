@@ -17,9 +17,13 @@
 * 🎯 Goal: Become a top software engineer
 
 ---
+## 🚀 Tech Stack
 
-## ⚙️ Tech Stack
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 💻 Languages
 `Java` `SQL`
 
